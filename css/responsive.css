@@ -23,6 +23,10 @@
         margin-bottom: 10px;
     }
 
+    .container {
+        margin-bottom: 20px;
+    }
+
     .custom_nav-container.navbar-expand-lg .navbar-nav .nav-link {
         padding: 0 5px;
     }
