@@ -313,24 +313,6 @@ a:focus {
           background-size: cover;
         }
       }
-
-      &-start {
-        &::before {
-          background-image: url(../images/arrow-start.png);
-        }
-      }
-
-      &-middle {
-        &::before {
-          background-image: url(../images/arrow-middle.png);
-        }
-      }
-
-      &-end {
-        &::before {
-          background-image: url(../images/arrow-end.png);
-        }
-      }
     }
   }
 }

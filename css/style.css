@@ -311,18 +311,6 @@ a:focus {
   background-size: cover;
 }
 
-.do_section .do_container .arrow-start::before {
-  background-image: url(../images/arrow-start.png);
-}
-
-.do_section .do_container .arrow-middle::before {
-  background-image: url(../images/arrow-middle.png);
-}
-
-.do_section .do_container .arrow-end::before {
-  background-image: url(../images/arrow-end.png);
-}
-
 .who_section .row {
   -webkit-box-align: center;
       -ms-flex-align: center;
